@@ -1,8 +1,17 @@
 .navbar{
     background: black;
     color: darkslategray;
-    text-align: left;
 }
+
+.nav_navbar-nav{
+    float: left;
+    list-style: none;
+    margin: 0px;  
+    width: 400px;  
+    height: 140px;
+}
+
+
 
 
 
